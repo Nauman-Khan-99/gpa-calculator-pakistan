@@ -56,7 +56,7 @@ No installation needed! Just:
 
 Download or clone this repo:
 
-bashgit clone https://github.com/Nauman-Khan-99/pakistan-gpa-calculator.git
+bashgit clone https://github.com/Nauman-Khan-99/gpa-calculator-pakistan.git
 
 Open index.html in any browser
 Done ✅
