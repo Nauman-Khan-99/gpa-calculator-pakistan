@@ -93,7 +93,7 @@ No installation needed! Just:
 
 1. Download or clone this repo:
 ```bash
-git clone https://github.com/yourusername/pakistan-gpa-calculator.git
+git clone https://github.com/Nauman-Khan-99/gpa-calculator-pakistan.git
 ```
 2. Open `index.html` in any browser
 3. Done ✅
